@@ -26,9 +26,9 @@ Abaixo segue a lista dos tópicos.
 3. [Padrões Comportamentais][pt_behavioral_patterns]
 
 <!-- Links -->
-[pt_creational_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.1-Creational-Patterns
-[pt_structural_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.2-Structural-Patterns
-[pt_behavioral_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.3-Behavioral-Patterns
+[pt_creational_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.1-Padrões-Criacionais
+[pt_structural_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.2-Padrões-Estruturais
+[pt_behavioral_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.3-Padrões-Comportamentais
 
 [en_creational_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.1-Creational-Patterns
 [en_structural_patterns]: https://github.com/TomazMartins/DesignPatterns/wiki/1.2-Structural-Patterns
