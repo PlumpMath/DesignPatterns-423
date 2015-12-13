@@ -1,0 +1,147 @@
+#------------------------------ GENERAL --------------------------------------#
+/UML/
+#----------------------------END OF GENERAL ----------------------------------#
+
+#-------------------------------- C++ ----------------------------------------#
+# Compiled Object files
+/*/*/Cpp/*.slo
+/*/*/Cpp/*.lo
+/*/*/Cpp/*.o
+/*/*/Cpp/*.obj
+
+# Precompiled Headers
+/*/*/Cpp/*.gch
+/*/*/Cpp/*.pch
+
+# Compiled Dynamic libraries
+/*/*/Cpp/*.so
+/*/*/Cpp/*.dylib
+/*/*/Cpp/*.dll
+
+# Fortran module files
+/*/*/Cpp/*.mod
+
+# Compiled Static libraries
+/*/*/Cpp/*.lai
+/*/*/Cpp/*.la
+/*/*/Cpp/*.a
+/*/*/Cpp/*.lib
+
+# Executables
+/*/*/Cpp/*.exe
+/*/*/Cpp/*.out
+/*/*/Cpp/*.app
+#---------------------------- END OF C++ -------------------------------------#
+
+#------------------------------- JAVA ----------------------------------------#
+/*/*/Java/*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+/*/*/Java/*.jar
+/*/*/Java/*.war
+/*/*/Java/*.ear
+#---------------------------- END OF JAVA ------------------------------------#
+
+#------------------------------- RUBY ----------------------------------------#
+*.gem
+*.rbc
+/*/*/Ruby/.config
+/*/*/Ruby/coverage/
+/*/*/Ruby/InstalledFiles
+/*/*/Ruby/pkg/
+/*/*/Ruby/spec/reports/
+/*/*/Ruby/spec/examples.txt
+/*/*/Ruby/test/tmp/
+/*/*/Ruby/test/version_tmp/
+/*/*/Ruby/tmp/
+
+## Specific to RubyMotion:
+/*/*/Ruby/.dat*
+/*/*/Ruby/.repl_history
+/*/*/Ruby/build/
+
+## Documentation cache and generated files:
+/*/*/Ruby/.yardoc/
+/*/*/Ruby/_yardoc/
+/*/*/Ruby/doc/
+/*/*/Ruby/rdoc/
+
+## Environment normalisation:
+/*/*/Ruby/.bundle/
+/*/*/Ruby/vendor/bundle
+/*/*/Ruby/lib/bundler/man/
+
+# for a library or gem, you might want to ignore these files since the code is
+# intended to run in multiple environments; otherwise, check them in:
+# Gemfile.lock
+# .ruby-version
+# .ruby-gemset
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+/*/*/Ruby/.rvmrc
+#---------------------------- END OF RUBY ------------------------------------#
+
+#-------------------------------PYTHON ---------------------------------------#
+# Byte-compiled / optimized / DLL files
+/*/*/Python/__pycache__/
+/*/*/Python/*.py[cod]
+/*/*/Python/*$py.class
+
+# C extensions
+/*/*/Python/*.so
+
+# Distribution / packaging
+/*/*/Python/.Python
+/*/*/Python/env/
+/*/*/Python/build/
+/*/*/Python/develop-eggs/
+/*/*/Python/dist/
+/*/*/Python/downloads/
+/*/*/Python/eggs/
+/*/*/Python/.eggs/
+/*/*/Python/lib/
+/*/*/Python/lib64/
+/*/*/Python/parts/
+/*/*/Python/sdist/
+/*/*/Python/var/
+/*/*/Python/*.egg-info/
+/*/*/Python/.installed.cfg
+/*/*/Python/*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+/*/*/Python/*.manifest
+/*/*/Python/*.spec
+
+# Installer logs
+/*/*/Python/pip-log.txt
+/*/*/Python/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+/*/*/Python/htmlcov/
+/*/*/Python/.tox/
+/*/*/Python/.coverage
+/*/*/Python/.coverage.*
+/*/*/Python/.cache
+/*/*/Python/nosetests.xml
+/*/*/Python/coverage.xml
+/*/*/Python/*,cover
+/*/*/Python/.hypothesis/
+
+# Translations
+/*/*/Python/*.mo
+/*/*/Python/*.pot
+
+# Django stuff:
+/*/*/Python/*.log
+
+# Sphinx documentation
+/*/*/Python/docs/_build/
+
+# PyBuilder
+/*/*/Python/target/
+#--------------------------- END OF PYTHON -----------------------------------#
