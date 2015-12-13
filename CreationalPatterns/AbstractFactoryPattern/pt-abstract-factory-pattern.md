@@ -9,3 +9,9 @@ padrão providencia-se uma *interface* capaz de criar uma família de objetos,
 relacionados entre si, mas sem especificar suas classes concretas. Dessa forma,
 essa informação fica encapsulada, permitindo que a criação deles seja feita
 apenas quando for solicitado.
+
+Esse padrão é também conhecido como *Kit*.
+
+
+## Estrutura
+![](https://github.com/TomazMartins/DesignPatterns/blob/master/figures/general_abstract_factory.png)
